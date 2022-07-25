@@ -5,8 +5,6 @@
 
 【完成人】王锦坤
 
-Project: do your best to optimize SM3 implementation
-
 【代码说明】
 
 SM3消息分组长度512位，对于输入的消息，首先进行消息填充，首先把数据填充至512位的倍数.
