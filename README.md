@@ -1,4 +1,8 @@
 # SM3
+【项目名称】do your best to optimize SM3 implementation
+【项目简介】进行SM3的编写，尽最大努力进行优化。代码测试的测试时间部分为后面测试所加，未在提交代码中展现，使用了time.time()进行测试。
+【完成人】王锦坤
+
 Project: do your best to optimize SM3 implementation
 
 【代码说明】
